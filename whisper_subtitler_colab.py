@@ -1,3 +1,5 @@
+# Developed by Max Lee to promote the automation of audiovisual translation progress with the power of AI. This tool aims to make content more accessible through accurate transcription and subtitle generation.
+
 #@title Setup and Installation (Click to expand)
 !pip install -q openai-whisper pytube yt-dlp tqdm
 
