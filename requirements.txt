@@ -1,0 +1,7 @@
+openai-whisper>=20231117
+pytube>=15.0.0
+yt-dlp>=2023.11.16
+torch>=2.0.0
+ipywidgets>=8.0.0
+tqdm>=4.66.1
+humanize>=4.9.0 
