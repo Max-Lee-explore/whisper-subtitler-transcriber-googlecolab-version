@@ -7,7 +7,7 @@ A Google Colab notebook that uses OpenAI's Whisper model to generate transcripti
 ## 🚀 Try it now on Google Colab!
 
 <div align="center">
-<a href="https://colab.research.google.com/drive/14osxUm5FeE9GjyGuRPLCiTuPpRyZs06R?usp=sharing">
+<a href="https://colab.research.google.com/drive/1SMXb2jYPAkKPrbVGbFZkfUhnuYEywxDB?usp=sharing">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200"/>
 </a>
 </div>
